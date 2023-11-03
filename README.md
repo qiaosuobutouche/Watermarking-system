@@ -48,7 +48,7 @@
 ```
 @inproceedings{10.1117/12.2657074,
 	author = {Shuo-Kun Yang and De-Zhi Sun and Fu-Cheng You and Ji-Qiang Dong},
-	title = {{Robust image watermarking algorithm based on DWT and DCT}},
+	title = {Robust image watermarking algorithm based on DWT and DCT},
 	year = {2022},
 	doi = {10.1117/12.2657074},
 	URL = {https://doi.org/10.1117/12.2657074}
