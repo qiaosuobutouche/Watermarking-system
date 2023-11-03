@@ -44,7 +44,7 @@
 |          NC values using only the DCT algorithm           |                           0.91291                            |                            0.8819                            |                           0.21482                            |
 
 #### 本项目引用
-这篇文章被使用于本项目，你可以引用在自己的论文里
+这篇文章被使用于本项目中，你可以引用在自己的论文里
 ```
 @inproceedings{10.1117/12.2657074,
 	author = {Shuo-Kun Yang and De-Zhi Sun and Fu-Cheng You and Ji-Qiang Dong},
