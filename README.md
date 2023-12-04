@@ -48,12 +48,11 @@
 #### 引用
 这篇文章被使用于本项目中，你可以引用在自己的论文里
 ```
-@inproceedings{10.1117/12.2657074,
-	author = {Shuo-Kun Yang and De-Zhi Sun and Fu-Cheng You and Ji-Qiang Dong},
-	title = {Robust image watermarking algorithm based on DWT and DCT},
-	year = {2022},
-	doi = {10.1117/12.2657074},
-	URL = {https://doi.org/10.1117/12.2657074}
+@inproceedings{yang2022robust,
+  title={Robust image watermarking algorithm based on DWT and DCT},
+  author={Yang, Shuo-Kun and Sun, De-Zhi and You, Fu-Cheng and Dong, Ji-Qiang},
+  booktitle={ICNCIS},
+  year={2022},
 }
 ```
 
