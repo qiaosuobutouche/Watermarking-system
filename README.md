@@ -46,7 +46,7 @@
 |          NC values using only the DCT algorithm           |                           0.91291                            |                            0.8819                            |                           0.21482                            |
 
 #### 引用
-这篇文章被使用于本项目中，你可以引用在自己的论文里
+这篇文章被使用于本项目中，你可以引用在自己的论文里，搬运请标明出处，不要干扒了资源在csdn卖钱的恶心事
 ```
 @inproceedings{yang2022robust,
   title={Robust image watermarking algorithm based on DWT and DCT},
